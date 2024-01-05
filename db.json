@@ -1,0 +1,80 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "users": [
+    {
+      "username": "ramya@gmail.com",
+      "password": "ramya@123",
+      "id": "ramya@gmail.com",
+      "mobile no": "6381698171"
+    },
+    {
+      "username": "j.ramya03.2005@gmail.com",
+      "password": "ramya123",
+      "id": "j.ramya03.2005@gmail.com"
+    },
+    {
+      "username": "ramya@123",
+      "password": "ramya",
+      "id": "ramya@123"
+    },
+    {
+      "username": "ramyajanakiraman",
+      "password": "ramya",
+      "id": "ramyajanakiraman"
+    },
+    {
+      "username": "j",
+      "password": "1234",
+      "id": "j"
+    },
+    {
+      "name": "ramya3@gmail.com",
+      "username": "ramyaj",
+      "password": "ramya",
+      "id": "ramyaj"
+    },
+    {
+      "name": "ramya@gmail.com",
+      "username": "ramya123",
+      "password": "ramya",
+      "id": "ramya123"
+    },
+    {
+      "name": "priya@gmail.com",
+      "username": "priyadharshini",
+      "password": "priya",
+      "id": "priyadharshini"
+    },
+    {
+      "name": "ramya@gmail.com",
+      "username": "Prema",
+      "password": "Prema",
+      "id": "Prema"
+    },
+    {
+      "name": "ramya@gmail.com",
+      "username": "legevarshini",
+      "password": "lega",
+      "id": "legevarshini"
+    },
+    {
+      "name": "ramya@gmail.com",
+      "username": "priya",
+      "password": "priya",
+      "id": "priya"
+    }
+  ]
+}
